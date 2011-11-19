@@ -12,3 +12,17 @@ c:\users\jamie\documents\visual studio 2010\Projects\KinectTest\KinectTest\obj\x
 c:\users\jamie\documents\visual studio 2010\Projects\KinectTest\KinectTest\obj\x86\Debug\KinectTest.exe
 c:\users\jamie\documents\visual studio 2010\Projects\KinectTest\KinectTest\obj\x86\Debug\KinectTest.pdb
 c:\users\jamie\documents\visual studio 2010\Projects\KinectTest\KinectTest\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\KinectTest.exe
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\KinectTest.pdb
+C:\Users\Jamie\kinect\KinectDrawing\bin\Debug\KinectTest.exe
+C:\Users\Jamie\kinect\KinectDrawing\bin\Debug\KinectTest.pdb
+C:\Users\Jamie\kinect\KinectDrawing\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\MainWindow.baml
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\App.g.cs
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\KinectTest_MarkupCompile.cache
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\KinectTest.g.resources
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\KinectTest.Properties.Resources.resources
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jamie\kinect\KinectDrawing\obj\x86\Debug\GenerateResource.write.1.tlog
